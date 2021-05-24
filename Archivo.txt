@@ -1,2 +1,3 @@
-Nombre: Ricardo Cárdenas Guevara
+Nombre: Cárdenas Guevara Ricardo
 Matrícula: 20203tn077
+Carrera: Desarrollo de software multiplataforma
